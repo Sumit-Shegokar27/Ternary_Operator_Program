@@ -6,7 +6,7 @@ public class CheckOddEven_Scnner {
 
         Scanner sc= new Scanner(System.in);
 
-        System.out.println("Enter the Number :");
+        System.out.println("Enter the Numbers :");
 
         int number= sc.nextInt();
 
